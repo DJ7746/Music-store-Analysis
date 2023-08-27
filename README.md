@@ -17,6 +17,3 @@ The database schema consists of the following tables:
 - `invoices`: Contains invoice information, linked to customers.
 - `invoice_items`: Includes data about items (tracks) in each invoice.
 
-## Database And Tools
--Postgre SQL
-- pgAdmin4
