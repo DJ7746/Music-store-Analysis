@@ -16,6 +16,8 @@ The database schema consists of the following tables:
 - `customers`: Includes customer data.
 - `invoices`: Contains invoice information, linked to customers.
 - `invoice_items`: Includes data about items (tracks) in each invoice.
+  ![music database schema](https://github.com/DJ7746/Music-store-Analysis/assets/128540632/1bb968eb-d099-42ed-8dd6-af89fa10a428)
+
 
 ## Results
 The results of each query provide valuable insights into the music store's operations. These insights can help store managers make informed decisions about inventory management, marketing strategies, employee incentives, and more.
