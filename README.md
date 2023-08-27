@@ -16,3 +16,9 @@ The database schema consists of the following tables:
 - `customers`: Includes customer data.
 - `invoices`: Contains invoice information, linked to customers.
 - `invoice_items`: Includes data about items (tracks) in each invoice.
+
+## Results
+The results of each query provide valuable insights into the music store's operations. These insights can help store managers make informed decisions about inventory management, marketing strategies, employee incentives, and more.
+
+## Conclusion
+The music store analysis project demonstrates the power of SQL queries in extracting meaningful information from a complex dataset. By addressing various questions related to sales, customers, and products, the project contributes to a deeper understanding of the music store's performance. This information can guide strategic decisions and ultimately improve the store's overall efficiency and profitability.
