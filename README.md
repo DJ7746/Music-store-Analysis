@@ -16,4 +16,3 @@ The database schema consists of the following tables:
 - `customers`: Includes customer data.
 - `invoices`: Contains invoice information, linked to customers.
 - `invoice_items`: Includes data about items (tracks) in each invoice.
-
