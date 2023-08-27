@@ -15,7 +15,7 @@ The database schema consists of the following tables:
 - `tracks`: Contains information about individual music tracks, linked to albums.
 - `customers`: Includes customer data.
 - `invoices`: Contains invoice information, linked to customers.
-- `invoice_items`: Includes data about items (tracks) in each invoice.
+- `invoice_lines`: Includes data about items (tracks) in each invoice.
   ![music database schema](https://github.com/DJ7746/Music-store-Analysis/assets/128540632/1bb968eb-d099-42ed-8dd6-af89fa10a428)
 
 
